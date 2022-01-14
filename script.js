@@ -4,11 +4,11 @@ const tempLoad = () => {
 
     setTimeout(() => {
         temp.innerHTML = '&#xf2ca';
-        temp.style.color = 'orange'
+        temp.style.color = 'green'
     }, 1000)
     setTimeout(() => {
         temp.innerHTML = '&#xf2c9';
-        // temp.style.color = 'orange'
+        temp.style.color = 'orange'
     }, 2000)
     setTimeout(() => {
         temp.innerHTML = '&#xf2c8';
